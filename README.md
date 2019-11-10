@@ -3,6 +3,7 @@
 ## 説明
 
 ジョークプログラムのソースコードです
+![https://raw.githubusercontent.com/SoraKumo001/ts-fully-understood/cap/cap.gif](https://raw.githubusercontent.com/SoraKumo001/ts-fully-understood/cap/cap.gif)
 
 ## 動作サイト
 
