@@ -1,0 +1,12 @@
+{
+  "name": "ts-fully-understood",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -b src -w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
